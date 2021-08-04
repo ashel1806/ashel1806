@@ -11,15 +11,15 @@
 </div>
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Ashel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Ashel-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Ashel-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Ashel-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Ashel-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img align="center" alt="Ashel-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Ashel-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Ashel-sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+  <img align="center" alt="Ashel-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Ashel-cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
  </div>
   
  ##
