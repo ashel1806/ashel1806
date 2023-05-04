@@ -1,8 +1,8 @@
 ## Hi! I´m Ashel Vasquez 👋
 
-- 🌱 Learning MERN Stack
-- 📫 Contact: vasquezpalominoashel@gmail.com
 - ⚡ I´m a Software Engineer student :D
+- 🌱 Learning DevOps
+- 📫 Contact: vasquezpalominoashel@gmail.com
 
 <div>
   <a href="https://github.com/ashel1806">
